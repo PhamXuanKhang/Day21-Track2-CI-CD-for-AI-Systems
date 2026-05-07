@@ -1,5 +1,7 @@
 mlflow.db
 mlartifacts/
+mlruns/
+*.msi
 models/
 outputs/
 data/train_phase1.csv
